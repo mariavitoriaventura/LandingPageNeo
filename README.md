@@ -1,7 +1,9 @@
 
 # Neon Landing (React + TypeScript + styled-components)
 
-![gif](src\assets\gif.gif)
+<p align="center">
+  <img src="./src/assets/gif.gif" alt="demo">
+</p>
 
 Landing page escura com efeitos neon seguindo o estilo do layout de referência.
 
