@@ -2,7 +2,8 @@
 # Neon Landing (React + TypeScript + styled-components)
 
 <p align="center">
-  <img src="./src/assets/gif.gif" alt="demo">
+   <img src="./src/assets/NeoImageDesktop.png" alt="demo">
+   <img src="./src/assets/NeoImageMobile.png" alt="demo">
 </p>
 
 Landing page escura com efeitos neon seguindo o estilo do layout de referência.
